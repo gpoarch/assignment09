@@ -1,0 +1,15 @@
+html, body, ul, ol {
+  margin: 0;
+  padding: 0; }
+
+.text-red {
+  color: red; }
+
+.text-green {
+  color: lime; }
+
+.text-blue {
+  color: blue; }
+
+.bold, .text-red, .text-blue {
+  font-weight: bold; }
